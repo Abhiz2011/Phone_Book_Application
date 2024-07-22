@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1721453746 source:c:\c++\phonebook application\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<conio.h>
+	<windows.h>
+	<algorithm>
+
